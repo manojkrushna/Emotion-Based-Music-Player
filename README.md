@@ -1,5 +1,5 @@
 # Emotion-Based-Music-Player
-A ML based music player which plays songs according to user's mood.
+A ML based music player which plays songs according to user's mood. The model uses LBPH algorithm to recognize the facial emotions/expressions.
 
 
 
